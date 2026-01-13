@@ -57,13 +57,7 @@ src/main/java
 * Encerramento correto de aplicações no console
 
 ---
-## 👩‍💻 Autora
+🧑‍💻 Autora
+Simone Fatima da Silva 💼 Projeto de estudo em Java 📧 simonesilvaerp@gmail.com
 
-**Simone Fátima da Silva**
-Projeto desenvolvido para fins de estudo e aprendizado em Java e Spring Boot.
 
----
-
-## 📄 Licença
-
-Projeto de uso educacional.
