@@ -1,4 +1,4 @@
-# 📚 Projeto Literatura
+# 📚 Projeto Literatura  - Challenge Alura e Oracle(ONE)
 
 Projeto em Java com Spring Boot que consome dados de livros e autores, salva no banco de dados e permite consultas por meio de um menu no console.
 
