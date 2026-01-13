@@ -31,14 +31,15 @@ O objetivo do projeto é praticar **Java**, **Spring Boot**, **JPA/Hibernate**, 
 
 ## 📂 Estrutura do projeto
 
+```Estrutura
 src/main/java
-└── com.exemplo.literatura
-├── config # Configuração CORS
-├── model # Entidades (Autor, Livro, Gutendex)
-├── repository # Repositórios JPA
-├── service # Regras de negócio (Consumo da API, conversão de dados)
-├── principal # Menu e execução no console
-└── LiteraturaApplication.java
+ └── com.exemplo.literatura
+     ├── config        # Configuração CORS
+     ├── model         # Entidades (Autor, Livro, Gutendex)
+     ├── repository    # Repositórios JPA
+     ├── service       # Regras de negócio (Consumo da API, conversão de dados)
+     ├── principal     # Menu e execução no console
+     └── LiteraturaApplication.java
 
 
 
