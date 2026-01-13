@@ -31,21 +31,20 @@ O objetivo do projeto é praticar **Java**, **Spring Boot**, **JPA/Hibernate**, 
 
 ## 📂 Estrutura do projeto
 
-config # Configuração Cors
-model # Entidades (Autor, Livro, Gutendex)
-repository # Repositórios JPA
-service # Regras de negócio (Consumo Api, Conversão de dados)
-principal # Menu e execução no console
-LiteraturaApplication.java
+src/main/java
+└── com.exemplo.literatura
+├── config # Configuração CORS
+├── model # Entidades (Autor, Livro, Gutendex)
+├── repository # Repositórios JPA
+├── service # Regras de negócio (Consumo da API, conversão de dados)
+├── principal # Menu e execução no console
+└── LiteraturaApplication.java
 
 
 
 ## 🗄️ Banco de dados  -  PostgreSQL
 
 ### Tabela Autor e livros
-
-
-
 
 ## 🧠 Aprendizados
 
@@ -57,7 +56,6 @@ LiteraturaApplication.java
 * Encerramento correto de aplicações no console
 
 ---
-
 ## 👩‍💻 Autora
 
 **Simone Fátima da Silva**
